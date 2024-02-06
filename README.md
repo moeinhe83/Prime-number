@@ -6,7 +6,7 @@ This Program Takes A Number From The User And Checks Whether The User's Number I
 
 Programming Language ===> Python
 
-Description Of Files
+Description Of Files:
 
 primenum_linux.py ===> For Linux [Ubuntu Or Kali]
 
