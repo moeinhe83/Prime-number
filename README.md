@@ -1,4 +1,4 @@
-Program Name ===> Find The Prime Number
+Project Name ===> Find The Prime Number
 
 This Program Is For Finding Prime Numbers
 
