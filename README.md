@@ -1,6 +1,6 @@
 Project Name ===> Find The Prime Number
 
-This Program Is For Finding Prime Numbers
+Program Name ===> This Program Is For Finding Prime Numbers
 
 Program Description ===> This Program Takes A Number From The User And Checks Whether The User's Number Is The First Or Not
 
